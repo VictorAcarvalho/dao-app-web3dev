@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "@thirdweb-dev/react": "^3.5.1",
-    "@thirdweb-dev/sdk": "^3.5.1",
+    "@thirdweb-dev/react": "^4.9.4",
+    "@thirdweb-dev/sdk": "^4.0.99",
     "browserify-zlib": "^0.2.0",
     "ethers": "^5.6.6",
     "magic-sdk": "^19.3.0",
